@@ -1,1 +1,1 @@
-Hi I am @TanishSabne. I have expertise in web development.
+Hi I am @TanishSabne. I have expertise in dev ops.
